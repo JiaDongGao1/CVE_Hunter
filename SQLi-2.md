@@ -64,6 +64,8 @@ Content-Disposition: form-data; name="updateSettings"
 
 3.The vulnerability is located at the "Settings-Update Settings" function, you should inserts Payload when you Update any  information，as shown in the following figure：
 
-​![image](assets/image-20240227214116-80ly2bi.png)​
+​![image-20240227214116-80ly2bi](https://github.com/JiaDongGao1/CVE_Hunter/assets/161844108/78f3eda3-e1e1-432f-ab3a-5e90dcf28d0c)
 
-​![image](assets/image-20240227214234-31512eo.png)​
+![image-20240227214234-31512eo](https://github.com/JiaDongGao1/CVE_Hunter/assets/161844108/e5fbb91b-6b8f-4cb2-b1ca-5b100b2a752d)
+
+​
